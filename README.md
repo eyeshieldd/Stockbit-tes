@@ -8,6 +8,7 @@
 - #### Javascript
 - #### HTML
 - #### CSS
+- #### Bootstrap
 
 
 ## How to run
