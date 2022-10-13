@@ -4,7 +4,7 @@ import { FC, Suspense } from 'react'
 import { Provider } from 'react-redux'
 import createStore from './store'
 import Routes from './Routes'
-
+# Ini adalah komentar
 const App: FC = () => {
   const store = createStore()
 
